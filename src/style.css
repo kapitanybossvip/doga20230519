@@ -1,0 +1,27 @@
+/* File: index.html
+Author: Kapitány Dániel Márk
+Copyright: 2023, Kapitány Dániel Márk
+Group: Szoft 1/2 N
+Date: 2023-05-19
+Github: https://github.com/kapitanybossvip/
+Licenc: GNU GPL */
+body{
+    background-color:rgba(187, 102, 102, 0.778) !important;
+    color: rgb(226, 11, 11) !important;
+}
+h1{
+    background-color:rgb(177, 99, 99);
+}
+footer{
+    background-color: rgb(219, 164, 164);
+}
+h3{
+    background-color: rgba(255, 155, 155, 0.487);
+}
+span{
+    font-weight: lighter;
+    font-size: medium;
+}
+.text-end{
+    font-weight: bold;
+}
